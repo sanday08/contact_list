@@ -3,7 +3,7 @@ const contacts = [
     id: 1,
     name: "Beyonce",
     imgURL:
-      "https://blackhistorywall.files.wordpress.com/2010/02/picture-device-independent-bitmap-119.jpg",
+      "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fclareoconnor%2Ffiles%2F2016%2F05%2Fbeyonce-e1462396278265.jpg",
     phone: "+123 456 789",
     email: "b@beyonce.com",
   },
